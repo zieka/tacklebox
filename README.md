@@ -2,7 +2,7 @@
 
 A box full of gists, references, and other useful goodies!
 
-## Languages
+## Frontend (Client Side)
 ---------------
 
 ### HTML/HTML Templating
@@ -21,13 +21,25 @@ A box full of gists, references, and other useful goodies!
 
 * [Learn Javascript](https://github.com/adambard/learnxinyminutes-docs/blob/master/javascript.html.markdown)
 * [Consuming JSON](https://gist.github.com/zieka/793da3c20b1f34a75972668326a90c5f)
-* [Detect browser](https://gist.github.com/zieka/74239a4ee461c6f0f5bfac2c72860235)
+* [Detect Browser](https://gist.github.com/zieka/74239a4ee461c6f0f5bfac2c72860235)
 
   #### Coffeescript
 
   #### Livescript
 
   #### Typescript
+
+## Backend (Server Side)
+-----------------------
+
+### Elixir
+### Go
+### NodeJS (also see [Javascript](#javascript))
+### Ruby
+### Python
+### Java
+### .Net
+
 
 ## Databases
 ------------
