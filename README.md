@@ -25,20 +25,44 @@ A box full of gists, references, and other useful goodies!
 
   #### Coffeescript
 
+  * [Learn Coffeescript](https://github.com/adambard/learnxinyminutes-docs/blob/master/coffeescript.html.markdown)
+
   #### Livescript
 
+  * [Learn Livescript](https://github.com/adambard/learnxinyminutes-docs/blob/master/livescript.html.markdown)
+
   #### Typescript
+
+  * [Learn Typescript](https://github.com/adambard/learnxinyminutes-docs/blob/master/typescript.html.markdown)
 
 ## Backend (Server Side)
 -----------------------
 
 ### Elixir
+
+* [Learn Elixir](https://github.com/adambard/learnxinyminutes-docs/blob/master/elixir.html.markdown)
+
 ### Go
-### NodeJS (also see [Javascript](#javascript))
+
+* [Learn Go](https://github.com/adambard/learnxinyminutes-docs/blob/master/go.html.markdown)
+
+### NodeJS (See [Javascript](#javascript))
+
 ### Ruby
+
+* [Learn ]()
+
 ### Python
+
+* [Learn ]()
+
 ### Java
+
+* [Learn ]()
+
 ### .Net
+
+* [Learn ]()
 
 
 ## Databases
@@ -48,10 +72,18 @@ A box full of gists, references, and other useful goodies!
 
   #### MongoDB
 
+  * [Learn ]()
+
 ### SQL
 
   #### MySQL
 
+  * [Learn ]()
+
   #### PostgreSQL
 
-  #### SQL server
+  * [Learn ]()
+
+  #### SQL Server
+
+  * [Learn ]()
