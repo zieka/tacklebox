@@ -23,15 +23,15 @@ A box full of gists, references, and other useful goodies!
 * [Consuming JSON](https://gist.github.com/zieka/793da3c20b1f34a75972668326a90c5f)
 * [Detect Browser](https://gist.github.com/zieka/74239a4ee461c6f0f5bfac2c72860235)
 
-  #### Coffeescript
+ #### Coffeescript
 
   * [Learn Coffeescript](https://github.com/adambard/learnxinyminutes-docs/blob/master/coffeescript.html.markdown)
 
-  #### Livescript
+ #### Livescript
 
   * [Learn Livescript](https://github.com/adambard/learnxinyminutes-docs/blob/master/livescript.html.markdown)
 
-  #### Typescript
+ #### Typescript
 
   * [Learn Typescript](https://github.com/adambard/learnxinyminutes-docs/blob/master/typescript.html.markdown)
 
@@ -63,6 +63,18 @@ A box full of gists, references, and other useful goodies!
 ### .Net
 
 * [Learn ]()
+
+## Terminal
+------------
+
+###  bash
+
+* [Wait until file has content](https://gist.github.com/zieka/df347f2dd2cc0f6627856c02619a19a1)
+* [Iterate through directories in current location](https://gist.github.com/zieka/7b494ab2b636aea3d17743500d88c6d9)
+
+###  tmux
+###  zsh
+
 
 
 ## Databases
