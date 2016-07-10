@@ -50,11 +50,11 @@ A box full of gists, references, and other useful goodies!
 
 ### Ruby
 
-* [Learn ]()
+* [Learn Ruby](https://github.com/adambard/learnxinyminutes-docs/blob/master/ruby.html.markdown)
 
 ### Python
 
-* [Learn ]()
+* [Learn Python](https://github.com/adambard/learnxinyminutes-docs/blob/master/python.html.markdown)
 
 ### Java
 
