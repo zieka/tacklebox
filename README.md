@@ -79,9 +79,11 @@ A box full of gists, references, and other useful goodies!
 ### vim
 
 * [Learn Vim](https://github.com/adambard/learnxinyminutes-docs/blob/master/vim.html.markdown)
-* [Keyboard shortcut cheatsheet](https://github.com/zieka/tacklebox/images/vim.gif)
+* [Keyboard shortcut cheatsheet](https://github.com/zieka/tacklebox/blob/master/images/vim.gif)
 
 ###  zsh
+
+* [Oh My Zsh: zsh configuration manager](https://github.com/robbyrussell/oh-my-zsh)
 
 
 
