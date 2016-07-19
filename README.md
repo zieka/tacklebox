@@ -5,7 +5,6 @@ A box full of gists, references, and other useful goodies!
 ## Frontend (Client Side)
 ---------------
 
-### HTML/HTML Templating
 
 
 ### CSS
@@ -35,6 +34,14 @@ A box full of gists, references, and other useful goodies!
 
   * [Learn Typescript](https://github.com/adambard/learnxinyminutes-docs/blob/master/typescript.html.markdown)
 
+### Other
+
+ #### Elm
+
+  * [Learn Elm](https://github.com/adambard/learnxinyminutes-docs/blob/master/elm.html.markdown)
+
+
+
 ## Backend (Server Side)
 -----------------------
 
@@ -56,13 +63,6 @@ A box full of gists, references, and other useful goodies!
 
 * [Learn Python](https://github.com/adambard/learnxinyminutes-docs/blob/master/python.html.markdown)
 
-### Java
-
-* [Learn ]()
-
-### .Net
-
-* [Learn ]()
 
 ## Terminal
 ------------
@@ -72,7 +72,15 @@ A box full of gists, references, and other useful goodies!
 * [Wait until file has content](https://gist.github.com/zieka/df347f2dd2cc0f6627856c02619a19a1)
 * [Iterate through directories in current location](https://gist.github.com/zieka/7b494ab2b636aea3d17743500d88c6d9)
 
-###  tmux
+### tmux
+
+* [Learn Tmux](https://github.com/adambard/learnxinyminutes-docs/blob/master/tmux.html.markdown)
+
+### vim
+
+* [Learn Vim](https://github.com/adambard/learnxinyminutes-docs/blob/master/vim.html.markdown)
+* [Keyboard shortcut cheatsheet](https://github.com/zieka/tacklebox/images/vim.gif)
+
 ###  zsh
 
 
@@ -84,18 +92,8 @@ A box full of gists, references, and other useful goodies!
 
   #### MongoDB
 
-  * [Learn ]()
-
 ### SQL
 
   #### MySQL
 
-  * [Learn ]()
-
   #### PostgreSQL
-
-  * [Learn ]()
-
-  #### SQL Server
-
-  * [Learn ]()
